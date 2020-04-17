@@ -26,6 +26,7 @@ body{
     font-weight: 400;
     font-size: 15px;
     line-height: 24px;
+    overflow-x: hidden;
     color: $text;
 }
 .wrapper {
@@ -94,4 +95,19 @@ body{
 }
 .breadcrumbs__link{
     color: #b0bec5;
+}
+.angle-right{
+    position: relative;
+    padding-left: 15px;
+    &::before{
+        font-family: 'icomoon';
+        content: '\f105';
+        position: absolute;
+        left: 0;
+        color: $green;
+        font-size: 14px;
+    }
+}
+#b-time-container{
+    display: none;
 }
