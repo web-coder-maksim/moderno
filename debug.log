@@ -70,3 +70,13 @@
 [0419/005602.580:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [0419/010510.575:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [0419/011102.645:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0419/091437.104:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0419/092437.129:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0419/092437.152:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0419/092828.535:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0419/092937.105:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0419/094437.136:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0419/095937.211:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0419/101437.214:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0419/102937.221:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0419/104437.254:ERROR:crash_report_database_win.cc(469)] failed to stat report
